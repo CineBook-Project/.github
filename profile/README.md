@@ -1,21 +1,21 @@
-# Documentation pour les Développeurs : Application Canal Olympia
+# Documentation pour les Développeurs : Application CineBook
 
 ## Introduction
 
-Bienvenue dans le dépôt de l'application Canal Olympia! Ce projet est dédié au développement d'une application mobile permettant aux utilisateurs de consulter le programme hebdomadaire du cinéma Canal Olympia et de réserver des places pour les séances. Cette documentation a pour but de vous donner un aperçu du contexte du projet, de son objectif et des technologies utilisées.
+Bienvenue dans le dépôt de l'application CineBook! Ce projet est dédié au développement d'une application mobile permettant aux utilisateurs de consulter le programme hebdomadaire du cinéma CineBook et de réserver des places pour les séances. Cette documentation a pour but de vous donner un aperçu du contexte du projet, de son objectif et des technologies utilisées.
 
 ## Objectif du Projet
 
 L'objectif principal de ce projet est de créer une application conviviale qui offre aux utilisateurs la possibilité de :
 
-- Consulter le programme hebdomadaire du cinéma Canal Olympia.
+- Consulter le programme hebdomadaire du cinéma CineBook.
 - Afficher les détails des films à l'affiche, y compris les horaires des séances.
 - Réserver des places pour les séances en sélectionnant des sièges spécifiques.
 - Gérer les réservations existantes, y compris la modification et l'annulation de réservations.
 
 ## Technologies Utilisées
 
-L'application Canal Olympia est développée en utilisant les technologies suivantes :
+L'application CineBook est développée en utilisant les technologies suivantes :
 
 - **Langages de Programmation :** Dart, Javascript (Flutter pour le développement d'applications mobiles).
 - **Gestionnaire de Packages :** npm (Node Package Manager) pour l'installation des dépendances.
@@ -26,7 +26,7 @@ L'application Canal Olympia est développée en utilisant les technologies suiva
 
 ## Comment Contribuer
 
-Nous encourageons les contributeurs à participer au développement de l'application Canal Olympia en soumettant des bugs, en proposant des fonctionnalités et en améliorant la qualité du code. Voici quelques étapes de base pour contribuer :
+Nous encourageons les contributeurs à participer au développement de l'application CineBook en soumettant des bugs, en proposant des fonctionnalités et en améliorant la qualité du code. Voici quelques étapes de base pour contribuer :
 
 1. Clonez le dépôt sur lequel vous voulez contribuer sur votre machine locale en utilisant la commande :
    ```
